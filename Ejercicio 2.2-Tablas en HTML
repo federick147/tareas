@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>Ejercicio 02/2 - Tablas en HTML</title>
+</head>
+<body>
+    <table>
+        <thead>
+            <tr>
+                <td>Título</td>
+                <td>Autor</td>
+                <td>Año de publicación</td>
+                <td>Enlace</td>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>Ugly Love: A Novel</td>
+                <td>Colleen Hoover</td>
+                <td>2014</td>
+                <td><a href="https://www.amazon.com/Colleen-Hoover/dp/1476753180/ref=zg_sccl_2/142-3280283-6234322?pd_rd_w=Oaplv&content-id=amzn1.sym.193afb92-0c19-4833-86f8-850b5ba40291&pf_rd_p=193afb92-0c19-4833-86f8-850b5ba40291&pf_rd_r=FGDHAA4D6K2STKJK8HKV&pd_rd_wg=ZDOXB&pd_rd_r=2bea2363-b415-479a-9fdf-4a55f0950b9e&pd_rd_i=1476753180&psc=1">https://www.amazon.com/Colleen-Hoover/dp/</a></td>
+            </tr>
+            <tr>
+                <td>Mr. Robot and Philosophy</td>
+                <td>Richard Greene</td>
+                <td>2017</td>
+                <td><a href="https://www.amazon.com/-/es/Richard-Greene/dp/0812699610/">https://www.amazon.com/-/es/Richard-Greene/dp/0812699610/0</a></td>
+            </tr>
+            <tr>
+                <td>LA VIDA SON 2 PUTOS DÍAS</td>
+                <td>José Montañez</td>
+                <td>2021</td>
+                <td><a href="https://www.amazon.com/-/es/José-Montañez/dp/B09P3YMV3J/ref=sr_1_2?__mk_e">https://www.amazon.com/-/es/José-Montañez/dp/B09P3YMV3J/ref=sr_1_2?__mk_e</a></td>
+            </tr>
+        </tbody>
+    </table>
+</body>
+</html>
