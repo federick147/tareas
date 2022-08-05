@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Disposicion de elementos en CSS</title>
+    <link rel="stylesheet" href="css/TAREA.CSS">
+</head>
+<body>
+    <div class="galeria">
+        <img class="imagen-galeria" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAGnY6_rfnaMQaAotEWJ9Fo2fQpUoPLf8B8HJxifFl2Q&s" alt="imagen1"/>
+        <br>
+        <img class="imagen-galeria" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKMcy70hON7V8PaIe_7IruFQjaIeBIDym9cYThxVU&s" alt="imagen2"/>
+        <br>
+        <img class="imagen-galeria" src="https://pbs.twimg.com/media/D6uc2kBX4AAv3xV.jpg" alt="imagen3"/>
+        <br>
+        <img class="imagen-galeria" src="https://stickerly.pstatic.net/sticker_pack/4LRevtriqE5N13OuYyntUg/0EMLYD/3/62304888-19f6-4ecc-a740-89144a388e48.png" alt="imagen4"/>
+        <br>
+        <img class="imagen-galeria" src="https://pm1.narvii.com/6877/fc650d83deeef454bce12f3d4a3ff4081efd4a08r1-480-471v2_hq.jpg" alt="imagen5" width=/>
+        <br>
+        <img class="imagen-galeria" src="https://ih1.redbubble.net/image.856981034.0289/st,small,507x507-pad,600x600,f8f8f8.u3.jpg" alt="imagen6"/>
+    </div>
+</body>
+</html>
